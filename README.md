@@ -1,8 +1,10 @@
 # โปรเจคนี้เกี่ยวกับการทำการเติม google form อัติโนมัติโดยการใช้ selenium 
   ![image](https://github.com/user-attachments/assets/f15bc1b5-15e7-49e7-8130-2d120bbb0bee)
 
-
-module ที่ใช้สำหรับ Project  
+## ติดตั้ง Framework
+  pip install selenium
+  
+### module ที่ใช้สำหรับ Project  
 ```
 from selenium import webdriver
 from selenium.webdriver.common.by import By
