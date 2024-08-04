@@ -1,7 +1,7 @@
 # โปรเจคนี้เกี่ยวกับการทำการเติม google form อัติโนมัติโดยการใช้ selenium 
   ![image](https://github.com/user-attachments/assets/f15bc1b5-15e7-49e7-8130-2d120bbb0bee)
 
-## ติดตั้ง Framework
+## ติดตั้ง Selenium Framework
 ```
   pip install selenium
 ```
